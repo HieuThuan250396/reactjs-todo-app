@@ -1,0 +1,2 @@
+export const TOGGLE_ERROR = "TOGGLE_ERROR";
+export const TOGGLE_MESSAGE = "TOGGLE_MESSAGE"
